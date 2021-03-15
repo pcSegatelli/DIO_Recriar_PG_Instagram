@@ -1,2 +1,1 @@
-# DIO_Recriar_PG_Instagram
-Recriando a página inicial do Instagram
+Utilizando Flexbox para recriar a interface de login do Instagram.
